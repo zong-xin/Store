@@ -1,0 +1,45 @@
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+    <!-- 配置struts需要的常量 -->
+    <!-- 开启开发者默认的常量，会自动加载struts.xml -->
+    <constant name="struts.devMode" value="true"/>
+    <!-- 开启国际化信息机制的常量 -->
+    <constant name="struts.custom.i18n.resources" value="message"/>
+    <!--设置页面样式-->
+    <constant name="struts.ui.theme" value="simple"/>
+    <!--设置为你教案上传的总大小为20M-->
+    <constant name="struts.multipart.maxSize" value="20971520"/>
+    <constant name="struts.locale" value="zh_CN"/>
+    <constant name="struts.i18n.encoding" value="UTF-8"/>
+    <package name="default" extends="json-default" namespace="/">
+        <interceptors>
+            <!--设置局部上传文件大小和文件的扩展名-->
+            <interceptor-stack name="mydefault">
+                <interceptor-ref name="fileUpload"/>
+                <interceptor-ref name="defaultStack">
+                    <param name="fileUpload.maximumSize">2097152</param>
+                    <param name="fileUpload.allowedExtensions">.doc,.docx</param>
+                </interceptor-ref>
+            </interceptor-stack>
+        </interceptors>
+        <!--覆盖默认拦截器栈-->
+        <default-interceptor-ref name="mydefault"/>
+        <action name="user_*" class="cn.rain.usermanage.action.UserManageAction" method="{1}">
+
+            <!--登录成功-->
+            <result type="redirect">/login/home.jsp</result>
+            <!--登录失败-->
+            <result name="input">/login/login.jsp</result>
+            <!--表单校验-->
+            <result name="login">/login/login.jsp</result>
+            <result name="add">/user/list.jsp</result>
+            <result name="addError">/user/add.jsp</result>
+            <result name="jsonResult" type="json">
+                <param name="root">json</param>
+            </result>
+        </action>
+    </package>
+
+</struts>

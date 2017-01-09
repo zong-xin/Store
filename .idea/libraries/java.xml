@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/apps/blank/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/apps/blank/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/apps/mailreader/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/apps/portlet/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/apps/portlet/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/apps/rest-showcase/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/apps/rest-showcase/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/apps/showcase/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/apps/showcase/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/core/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/core/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/cdi/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/cdi/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/codebehind/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/codebehind/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/config-browser/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/convention/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/convention/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/dojo/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/dojo/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/dwr/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/embeddedjsp/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/embeddedjsp/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/gxp/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/jasperreports/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/javatemplates/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/javatemplates/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/jfreechart/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/jfreechart/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/jsf/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/json/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/json/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/junit/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/junit/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/osgi/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/osgi/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/oval/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/oval/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/pell-multipart/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/plexus/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/portlet-tiles/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/portlet/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/portlet/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/rest/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/rest/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/sitegraph/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/sitegraph/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/sitemesh/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/spring/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/spring/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/struts1/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/struts1/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/testng/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/testng/src/test/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/tiles3/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/plugins/tiles/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/xwork-core/src/main/java" />
+      <root url="jar://E:/Document/Java工具包/Struts_2.3.15.3/struts-2.3.15.3-all.zip!/struts-2.3.15.3/src/xwork-core/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

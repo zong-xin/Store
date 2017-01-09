@@ -1,0 +1,17 @@
+<!DOCTYPE validators PUBLIC
+        "-//Apache Struts//XWork Validator 1.0.3//EN"
+        "http://struts.apache.org/dtds/xwork-validator-1.0.3.dtd">
+<validators>
+    <field name="logonName">
+        <field-validator type="requiredstring">
+            <message key="UserLogin.logonName.required"/>
+            <!--<message>用户名不能为空</message>-->
+        </field-validator>
+    </field>
+    <field name="logonPwd">
+        <field-validator type="requiredstring">
+            <message key="UserLogin.logonPwd.required"/>
+            <!--<message>密码不能为空</message>-->
+        </field-validator>用户名或者密码错误
+    </field>
+</validators>
